@@ -12,7 +12,7 @@ Exploring **Blender**, **Python** & **Unreal asset tooling**.
 **Leatherface · Zombie Myers · Jason X**  
 Character adaptations for Halloween, with a bonus Bloodied Bandages study in the gallery.
 
-[View the gallery](SHOWCASE.md) · [Watch the studio loop](showcase-reel.mp4)
+[View the gallery](SHOWCASE.md) · [Download the studio loop](https://github.com/chudlett/chudlett/raw/refs/heads/main/showcase-reel.mp4)
 
 ### Currently learning
 

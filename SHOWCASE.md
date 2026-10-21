@@ -1,6 +1,6 @@
 # Selected mod work
 
-[Back to profile](README.md) · [Nexus](https://next.nexusmods.com/profile/chudlet) · [TikTok — gameplay & mods](https://www.tiktok.com/@chudsun) · [12-second studio loop](showcase-reel.mp4)
+[Back to profile](https://github.com/chudlett) · [Nexus](https://next.nexusmods.com/profile/chudlet) · [TikTok — gameplay & mods](https://www.tiktok.com/@chudsun) · [Download the 12-second studio loop](https://github.com/chudlett/chudlett/raw/refs/heads/main/showcase-reel.mp4)
 
 Character adaptations for Halloween, presented using the actual mod geometry and textures. These are studio renders; lighting, materials and motion differ from the game.
 
