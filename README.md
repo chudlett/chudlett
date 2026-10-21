@@ -18,6 +18,6 @@ Character adaptations for Halloween, with a bonus Bloodied Bandages study in the
 
 Mesh fitting, skin weights, materials, and Python-assisted asset workflows.
 
-Learning as I go—feedback is welcome.
+Learning as I go, feedback is welcome.
 
-<sub>Character adaptations using existing assets, made with AI assistance. See the gallery for credits and render details.</sub>
+<sub>Character adaptations using existing assets. See the gallery for credits and render details.</sub>
