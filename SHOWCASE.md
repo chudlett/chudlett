@@ -14,13 +14,13 @@ A Leatherface replacement for Scorched myers. The apron and tie are shown in the
 
 ![Zombie Myers character adaptation](zombie-portrait.png)
 
-one of my first modeling adaptation to scorched myers
+one of my first modeling adaptation to scorched myers - unreleased (will go back and work on it at a later date, if ppl even mw it)
 
 ## Jason X
 
 ![Jason X character adaptation](jason-portrait.png)
 
-Jason X - unreleased
+Jason X adapted over Phantom myers - unreleased
 
 ## Bloodied Bandages
 
